@@ -1,5 +1,7 @@
 AVO Automation Curl 
-
+Step 1: Install all : npm install
+Step 2: Start: npm run start
+Step 3:  Open postman and copy below curl to test apis
 1. 
 
 curl --location 'http://localhost:8082/api/login' \
